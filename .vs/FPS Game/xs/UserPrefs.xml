@@ -1,15 +1,15 @@
 ﻿<Properties StartupConfiguration="{54429F92-6BEA-13D3-7A3D-38ED9E70CF28}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Imported Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/FPSController/FpsControllerLPFP.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/LookLogic.cs">
     <Files>
       <File FileName="Assets/Scripts/GunScript.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/LookLogic.cs" Line="1" Column="1" />
-      <File FileName="Assets/Imported Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Weapon_Scripts/AutomaticGunScriptLPFP.cs" Line="1" Column="1" />
-      <File FileName="Assets/Imported Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/FPSController/FpsControllerLPFP.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/LookLogic.cs" Line="30" Column="10" />
+      <File FileName="Assets/Imported Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Weapon_Scripts/AutomaticGunScriptLPFP.cs" />
+      <File FileName="Assets/Imported Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/FPSController/FpsControllerLPFP.cs" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="75ab14ba-213f-422b-b4e2-dde887016855" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5cc4996f-c9b7-4df1-8ff5-4bd12fb74fa7" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

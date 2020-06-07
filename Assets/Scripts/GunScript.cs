@@ -4,8 +4,7 @@ using UnityEngine;
 
 public class GunScript : MonoBehaviour
 {
-    public float damage = 10f;
-    public float range = 100f;
+ 
 
     public Camera cam;
 
@@ -22,7 +21,7 @@ public class GunScript : MonoBehaviour
     void shoot()
     {
         RaycastHit hit;
-        if(Physics.Raycast(cam.transform.position, cam.transform.forward, out hit, range))
+        if(Physics.Raycast(cam.transform.position, cam.transform.forward, out hit))
         {
             Debug.Log(hit.transform.name);
         }

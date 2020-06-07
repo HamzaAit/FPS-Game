@@ -27,7 +27,7 @@ public class LookLogic : MonoBehaviour
         rot = Mathf.Clamp(rot, -60f, 60f);
         transform.localRotation = Quaternion.Euler(rot, 0f, 0f);
         //rot = Mathf.Clamp(rot, -60f, 60f);
-        gun.transform.localRotation = Quaternion.Euler(rot * rotSensitivity, 0f, 0f);
+        //gun.transform.localRotation = Quaternion.Euler(rot * rotSensitivity, 0f, 0f);
         
         player.Rotate(Vector3.up * mouseX);
 
